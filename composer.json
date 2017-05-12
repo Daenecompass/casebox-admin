@@ -30,7 +30,8 @@
         "predis/predis": "^1.0",
         "morris/microdb": "^0.1.0",
         "cboden/ratchet": "^0.3.4",
-        "react/stomp": "^0.2.0"
+        "react/stomp": "^0.2.0",
+        "twig/twig": "^1.0"
     },
     "require-dev": {
         "sensio/generator-bundle": "^3.0",
